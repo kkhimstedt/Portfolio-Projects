@@ -7,6 +7,7 @@ Medication (VARCHAR): Medication prescribed to the patient.
 AppointmentDate (DATE): Date of the patient's appointment.
 Doctor (VARCHAR): Name of the doctor for the appointment.
 Clinic (VARCHAR): Name of the clinic where the appointment took place.
+
 SQL Code:
 
 -- Create a table for the patient records
